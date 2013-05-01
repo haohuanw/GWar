@@ -1,0 +1,14 @@
+This game is a little bit like asteroid. Instead of meteorolite, I have different geometry in the game, and each geometry can attack each other and win the game.
+
+################################################################
+Double click "Game.py" to start the game.
+
+The first you will see is the main menu, you can use arrow key and enter key to select different options.
+
+In the Mission part is the instruction of the game and the About part is something about this game.
+
+When you choose Start menu, you will see different game mode, so you can play with your friend or play alone.
+################################################################
+
+I use Pygame as a main tool to design this game.
+(pygame-1.9.1_python2.7)
